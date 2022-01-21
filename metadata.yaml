@@ -1,0 +1,5 @@
+homepage: "https://pluszero.co.kr/"
+documentation: "https://github.com/pluszero-global/GA4-for-javascript-interface"
+versions:
+  - sha: b225afdbb0f47989d674486e997d6ab691eefd1b
+    changeNotes: First Version
